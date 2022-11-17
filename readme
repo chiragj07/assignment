@@ -2,3 +2,15 @@ Just run npm install
 and then npm start.
 It will start working. 
 Tested on postman
+
+apis
+
+/category/create
+/category/:id/update
+/category/:id/delete
+/category/list?page=&limit=
+/category/:id/category-details
+
+/category-relations/create
+/category-relations/update
+/category-relations/delete
